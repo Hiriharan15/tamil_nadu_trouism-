@@ -1,0 +1,28 @@
+{
+    "kodaikanal": {
+      "description": "A scenic hill station with misty mountains and cool weather.",
+      "map": "https://www.google.com/maps?q=Kodaikanal",
+      "image": ""
+    },
+    "madurai": {
+      "description": "Famous for the Meenakshi Amman Temple and rich culture.",
+      "map": "https://www.google.com/maps?q=Madurai",
+      "image": ""
+    },
+    "ooty": {
+      "description": "Popular hill station with botanical gardens and a toy train.",
+      "map": "https://www.google.com/maps?q=Ooty",
+      "image": ""
+    },
+    "rameswaram": {
+      "description": "Sacred pilgrimage town with temples and the Pamban bridge.",
+      "map": "https://www.google.com/maps?q=Rameswaram",
+      "image": ""
+    },
+    "hiri": {
+      "description": "hiri is this best family visting place.A serene hill station known for its waterfalls and lush greenery.best time to visit is from October to March. in krishnagiri district",
+      "map": "https://maps.app.goo.gl/aNwsYAqMA9D1H1nt5",
+      "image": "https://sbnri.com/blog/wp-content/uploads/2021/05/Frame-103.jpg"
+    }
+  }
+  
