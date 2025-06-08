@@ -4,7 +4,6 @@ pandas
 gunicorn
 flask_cors
 langdetect
-json
 urllib.parse
 requests
 cachetools.func
